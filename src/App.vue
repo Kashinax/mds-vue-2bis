@@ -11,20 +11,6 @@
       <span class="text-muted">Toggleable via the navbar brand.</span>
     </div>
   </div>
-  <nav class="navbar navbar-light">
-    <div class="container">
-      <div class="row align-items-center">
-        <div class="col">
-          Lecomte Ruben - <b>Webdesigner</b>
-        </div>
-        <div class="col-auto">
-          <button class="navbar-toggler" type="button">
-            <span class="navbar-toggler-icon"></span>
-          </button>
-        </div>
-      </div>
-    </div>
-  </nav>
   <router-view/>
   
 </template>
